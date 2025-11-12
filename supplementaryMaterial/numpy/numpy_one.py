@@ -70,3 +70,4 @@ print(word)
 
 
 #                                                    --slicing--
+# te quedaste en 13:10
