@@ -65,9 +65,3 @@ print(threeDim_array[2, 1, 0]) # prints 'W'
 
 word = threeDim_array[0, 1, 0] + threeDim_array[1, 1, 2] + threeDim_array[0, 2, 0] + threeDim_array[0, 1, 1]
 print(word)
-
-
-
-
-#                                                    --slicing--
-# te quedaste en 13:10
