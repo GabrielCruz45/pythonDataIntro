@@ -53,3 +53,8 @@ caloric_series.loc["Day 3"] += 500
 print(caloric_series.loc["Day 3"])
 print(caloric_series[caloric_series >= 2000])
 print(caloric_series[caloric_series < 2000])
+
+
+pokemon = ["Bulbasaur", "Ivysaur", "Venusaur", "Charmander", "Charmeleon", "Charizard"]
+pokemon_series = pd.Series(pokemon, index=["a", "b", "c", "d", "e", "f"])
+print(pokemon_series.loc["d"])
