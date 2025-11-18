@@ -36,3 +36,20 @@ int_series.loc["Apartment #1"] = 98 # changes value by label
 print(int_series.loc["Apartment #1"]) 
 
 print(int_series.iloc[0]) # location by integer (each row is index starting from 0)
+
+
+print("-----------")
+int_data_two = [100, 102, 104, 200, 202]
+int_series_two = pd.Series(int_data_two, index=["a", "b", "c", "d", "e"])
+print(int_series_two[int_series_two >= 200])
+print(int_series_two[int_series_two < 200])
+
+print("-----------")
+
+calories = {"Day 1" : 1750, "Day 2" : 2100, "Day 3" : 1700}
+caloric_series = pd.Series(calories)
+
+caloric_series.loc["Day 3"] += 500
+print(caloric_series.loc["Day 3"])
+print(caloric_series[caloric_series >= 2000])
+print(caloric_series[caloric_series < 2000])
