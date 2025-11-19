@@ -12,3 +12,5 @@
     —listed below.
     
     NumPy <https://www.youtube.com/watch?v=VXU4LSAQDSc>
+    Pandas <https://www.youtube.com/watch?v=VXtjG_GzO7Q>
+    Regex <https://www.youtube.com/watch?v=nxjwB8up2gI>
