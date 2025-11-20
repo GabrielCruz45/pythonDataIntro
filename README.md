@@ -11,10 +11,10 @@
     Also, will use other YouTube tutorials to help supplement the libraries/concepts/etc. given in the class 
     —listed below.
     
-    NumPy <https://www.youtube.com/watch?v=VXU4LSAQDSc>
-    Pandas <https://www.youtube.com/watch?v=VXtjG_GzO7Q>
-    RegEx <https://www.youtube.com/watch?v=nxjwB8up2gI>
+    NumPy                                   <https://www.youtube.com/watch?v=VXU4LSAQDSc>
+    Pandas                                  <https://www.youtube.com/watch?v=VXtjG_GzO7Q>
+    RegEx                                   <https://www.youtube.com/watch?v=nxjwB8up2gI>
 
-    Python Lambda Functions <https://www.youtube.com/watch?v=IljPHDyBRog>
-    Python Iterables, Iterators, etc. <https://www.youtube.com/watch?v=NUqYfuz_xvs>
-    Python List, Dictionary Comprehension <https://www.youtube.com/watch?v=jTK8faAN4V4>
+    Python Lambda Functions                 <https://www.youtube.com/watch?v=IljPHDyBRog>
+    Python Iterables, Iterators, etc.       <https://www.youtube.com/watch?v=NUqYfuz_xvs>
+    Python List, Dictionary Comprehension   <https://www.youtube.com/watch?v=jTK8faAN4V4>
