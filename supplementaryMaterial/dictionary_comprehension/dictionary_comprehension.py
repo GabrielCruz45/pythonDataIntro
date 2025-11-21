@@ -61,15 +61,3 @@ print(word_lengths)
 
 word_lengths_comprehension = {word : len(word) for word in sentence.split()}
 print(word_lengths_comprehension)
-
-
-
-
-
-
-
-
-# set comprehension
-
-
-# dictionary comprehension
